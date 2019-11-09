@@ -1,3 +1,9 @@
 body {
   padding-top: 56px;
+  background-image: url("https://render.fineartamerica.com/images/rendered/default/print/8.000/8.000/break/images-medium-5/seamless-minimalist-pattern-geometric-background-with-shapes-lines-black-and-white-color-retro-style-80s-90s-khjaproduction.jpg");
+}
+
+h1{
+  background-color: white;
+  padding: 10px;
 }
